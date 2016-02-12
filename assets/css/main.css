@@ -26,7 +26,7 @@
 		line-height: 1;
 	}
 
-	ol, ul {
+	ol, ul, li {
 		list-style: none;
 	}
 
@@ -1949,6 +1949,33 @@
 	}
 
 /* Box */
+.skills-list {
+	width: 100%;
+	margin: auto;
+}
+
+.skills-list li {
+	/*list-style: none;*/
+	float: left;
+	box-sizing: border-box;
+	max-height: 178px;
+	min-width: 160px;
+	max-width: 160px;
+	padding: 20px 30px;
+	text-align: center;
+}
+
+.skills-list li h3{
+	/*list-style: none;*/
+
+
+}
+
+.skills-list img {
+	width: 80px;
+	height: 80px;
+}
+
 
 	.box {
 		border-radius: 0.35em;
@@ -3058,6 +3085,10 @@
 
 	}
 
+
+
+
+
 /* XSmall */
 
 	@media screen and (max-width: 480px) {
@@ -3116,4 +3147,10 @@
 				padding-left: 0;
 			}
 
+	}
+
+	.group:after {
+		content: "";
+		display: block;
+		clear: both;
 	}
