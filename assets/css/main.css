@@ -1741,6 +1741,16 @@
 		line-height: 1.5em;
 	}
 
+	article .github {
+		float:right;
+		margin-right: 20px;
+		border: 0;
+	}
+
+	article .github:hover {
+		text-decoration: underline;
+	}
+
 	header.major h2 {
 		font-size: 2em;
 	}
@@ -2046,6 +2056,7 @@
 		.image img {
 			border-radius: 0.35em;
 			display: block;
+			max-height:195px;
 		}
 
 		.image.left {
