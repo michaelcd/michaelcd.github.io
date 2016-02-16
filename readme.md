@@ -1,4 +1,4 @@
-## Portfolio site for Michael Duke
+## Portfolio site
 
 [Live Site][site]
 
