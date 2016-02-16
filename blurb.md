@@ -1,1 +1,1 @@
-<p>I'm a software engineer based in New York City, experienced with Ruby, Ruby on Rails, Javascript, jQuery, React.js and Flux. Outside of coding I enjoy exercise, swing dancing, </p>
+<p>I'm a software engineer based in New York City, experienced with Ruby, Ruby on Rails, Javascript, jQuery, React.js and Flux. I discovered my passion for coding after creating Visual Basic code in Microsoft Excel to automate complex tasks in my previous career in accounting. Outside of coding I enjoy exercise, swing dancing, films and playing music. </p>
